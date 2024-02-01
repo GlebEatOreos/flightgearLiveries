@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">EVA Eva Airways (new livery)</name>
+            <texture>Liveries-300ER/EVA1.png</texture>
+        </livery>
+    </model>
+    <aircraft-class>gate</aircraft-class>
+    <aircraft-operator>EVA</aircraft-operator>
+    <aircraft-registration>B-16725</aircraft-registration>
+    <aircraft-SELCAL>AG-FR</aircraft-SELCAL>
+</sim>
+</PropertyList>
